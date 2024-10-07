@@ -1,0 +1,5 @@
+﻿  shell.c
+  sqlite3.c
+  Generando código...
+LINK : warning LNK4067: punto de entrada ambiguo; se seleccionó 'mainCRTStartup'
+  SQLITE.vcxproj -> C:\Users\carlospalrio\source\repos\SQLITE\SQLITE\x64\Debug\SQLITE.exe
